@@ -5,4 +5,5 @@ __pycache__/
 *.pth
 outputs/*
 !outputs/.gitkeep
+!outputs/*.png
 .DS_Store
