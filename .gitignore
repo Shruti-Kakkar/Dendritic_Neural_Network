@@ -1,0 +1,8 @@
+dataset/
+__pycache__/
+*.pyc
+*.pyo
+*.pth
+outputs/*
+!outputs/.gitkeep
+.DS_Store
